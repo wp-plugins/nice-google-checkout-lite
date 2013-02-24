@@ -1,6 +1,6 @@
 ﻿=== Nice Google Checkout Lite ===
 Contributors: mjetpax
-Donate link: http://trinitronic.com/index.php/WordPress/nice-google-checkout-wordpress-plugin.html
+Donate link: http://trinitronic.com/wordpress/nice-google-checkout-wordpress-plugin
 Tags: google, button, buy now, ecommerce, shortcode, buy now button, google button, google buy now button, google checkout button, google checkout plugin, google checkout plugin for wordpress, google wallet
 
 Requires at least: 3.0
@@ -11,11 +11,11 @@ Nice Google Checkout Lite gives you the power to create Google Checkout Buy Now 
 
 == Description ==
 
-[Get more when you upgrade to the full version of the Nice Google Checkout plugin.](http://trinitronic.com/index.php/WordPress/nice-google-checkout-wordpress-plugin.html "Nice Google Checkout Plugin Full Version")
+[Get more when you upgrade to the full version of the Nice Google Checkout plugin.](http://trinitronic.com/wordpress/nice-google-checkout-wordpress-plugin "Nice Google Checkout Plugin Full Version")
 
 The Nice Google Checkout Lite plugin provides you with an easy to use & flexible e-commerce solution.
 
-This plugin empowers you with a hassle free way to add Google Checkout buy now buttons to any WordPress post or page, by simply adding shortcodes to your content. Stop dealing with the headache involved with larger, over-bloated e-commerce extensions and start selling. Nice Google Checkout Lite is lightweight, flexible and easy to use. It does not include a shopping cart like its big brother, the [Nice Google Checkout plugin](http://trinitronic.com/index.php/WordPress/wordpress-nice-google-checkout.html "Nice Google Checkout Plugin Full Version"). However, it still packs a big punch in respect to application of use and reliability.
+This plugin empowers you with a hassle free way to add Google Checkout buy now buttons to any WordPress post or page, by simply adding shortcodes to your content. Stop dealing with the headache involved with larger, over-bloated e-commerce extensions and start selling. Nice Google Checkout Lite is lightweight, flexible and easy to use. It does not include a shopping cart like its big brother, the [Nice Google Checkout plugin](http://trinitronic.com/wordpress/nice-google-checkout-wordpress-plugin "Nice Google Checkout Plugin Full Version"). However, it still packs a big punch in respect to application of use and reliability.
 
 Usage is simple, just add a shortcode in any article content, e.g [nicecheckoutlite price="12.50" name="Wordpress Coffee Mug"], and the Nice Google Checkout Lite plugin will replace your shortcode with a Google Checkout buy now button. It couldn't be simpler.
 
@@ -54,7 +54,7 @@ Some cool features that you get:
 
 Does the nice Google Checkout Lite plugin come with a shopping cart?
 
-THe Nice Google Checkout lite only supports Google Checkout buy now buttons. However, the full version of the [Nice Google Checkout plugin](http://trinitronic.com/index.php/WordPress/wordpress-nice-google-checkout.html "Nice Google Checkout Plugin Full Version") does include a shopping cart.
+THe Nice Google Checkout lite only supports Google Checkout buy now buttons. However, the full version of the [Nice Google Checkout plugin](http://trinitronic.com/wordpress/nice-google-checkout-wordpress-plugin "Nice Google Checkout Plugin Full Version") does include a shopping cart.
 
 How many buttons can be placed on a post or page?
 
@@ -62,11 +62,11 @@ This is unlimited. You may place as many buttons as you like in a post or a page
 
 Where can I get technical support?
 
-You can get support through our support forum [http://trinitronic.com/supportforum/index.php](http://trinitronic.com/supportforum/index.php "Nice Google Checkout Lite Support Forum").
+You can get support through our support forum [http://trinitronic.com/community](http://trinitronic.com/community "Nice Google Checkout Lite Support Forum").
 
 Where can I find the Nice Google Checkout Lite documentation page?
 
-You can find the Nice Google Checkout Lite documentation page here [http://trinitronic.com/index.php/WordPress/wordpress-nice-google-checkout-lite-documentation.html](http://trinitronic.com/index.php/WordPress/wordpress-nice-google-checkout-lite-documentation "Nice Google Checkout Lite Documentation")
+You can find the Nice Google Checkout Lite documentation page here [http://trinitronic.com/wordpress-plugin-documentation/nice-google-checkout-lite-for-wordpress-documentation](http://trinitronic.com/wordpress-plugin-documentation/nice-google-checkout-lite-for-wordpress-documentation "Nice Google Checkout Lite Documentation")
 
 == Changelog ==
 
