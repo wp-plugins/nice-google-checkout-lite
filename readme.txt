@@ -4,7 +4,7 @@ Donate link: http://trinitronic.com/index.php/WordPress/nice-google-checkout-wor
 Tags: google, button, buy now, ecommerce, shortcode, buy now button, google button, google buy now button, google checkout button, google checkout plugin, google checkout plugin for wordpress, google wallet
 
 Requires at least: 3.0
-Tested up to: 3.3.1
+Tested up to: 3.5.1
 Stable tag: trunk
 
 Nice Google Checkout Lite gives you the power to create Google Checkout Buy Now buttons wherever you choose, by simply adding shortcodes to your posts and pages.
@@ -13,7 +13,7 @@ Nice Google Checkout Lite gives you the power to create Google Checkout Buy Now 
 
 [Get more when you upgrade to the full version of the Nice Google Checkout plugin.](http://trinitronic.com/index.php/WordPress/nice-google-checkout-wordpress-plugin.html "Nice Google Checkout Plugin Full Version")
 
-The Nice Google Checkout Lite plugin provides you with an easy to use & flexible e-commerce solution. 
+The Nice Google Checkout Lite plugin provides you with an easy to use & flexible e-commerce solution.
 
 This plugin empowers you with a hassle free way to add Google Checkout buy now buttons to any WordPress post or page, by simply adding shortcodes to your content. Stop dealing with the headache involved with larger, over-bloated e-commerce extensions and start selling. Nice Google Checkout Lite is lightweight, flexible and easy to use. It does not include a shopping cart like its big brother, the [Nice Google Checkout plugin](http://trinitronic.com/index.php/WordPress/wordpress-nice-google-checkout.html "Nice Google Checkout Plugin Full Version"). However, it still packs a big punch in respect to application of use and reliability.
 
@@ -70,15 +70,21 @@ You can find the Nice Google Checkout Lite documentation page here [http://trini
 
 == Changelog ==
 
+= 1.01 =
+* Compatible with WordPress 3.5.1
+
 = 1.0 =
 * First release of the plugin
 
 == Upgrade Notice ==
 
+= 1.01 =
+* Compatible with WordPress 3.5.1
+
 = 1.0 =
 * First release of the plugin
 
-== Screenshots == 
+== Screenshots ==
 
 == Documentation ==
 
@@ -104,7 +110,7 @@ The Nice Google Checkout Lite plugin provides a number of options through the in
 * quantity
 * shipping
 * tax
-        
+
 Each attribute can be set in the shortcode by including the attribute name followed by an equals sign and the attribute value in quotes.
 
 *Attribute Example*
@@ -123,7 +129,7 @@ The name of the item being sold. If omitted, payers enter their own name at the 
 
 [nicecheckoutlite price="0.00"]
 
-The price or amount of the product or service, not including shipping & handling, or tax. If omitted from Buy Now payers enter their own amount during checkout on the Google payment page. 
+The price or amount of the product or service, not including shipping & handling, or tax. If omitted from Buy Now payers enter their own amount during checkout on the Google payment page.
 
 *IMPORTANT:* Do not enter a currency symbol, just the numerical amount.
 
@@ -149,7 +155,7 @@ Example
 
 [nicecheckoutlite tax=".000"]
 
-To specify a tax rate you need to express it as a decimal value. So, if the tax to be charged is 7.5% you would enter .075 in the parameter field. 
+To specify a tax rate you need to express it as a decimal value. So, if the tax to be charged is 7.5% you would enter .075 in the parameter field.
 
 Optionally, you may specify the US state where you wish to charge tax by entering a semi-colon after the tax amount, followed by the states 2 letter abbreviation, e.g. for California enter “CA”.
 
